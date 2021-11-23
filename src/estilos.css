@@ -1,0 +1,40 @@
+body{
+  
+
+}
+
+.carousel-inner{
+
+    border-radius:30px;
+    width: 100%;
+    height: 480px;
+}
+
+.logohome{
+
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+}
+
+.nav{
+
+    border-radius: 25px;
+  
+}
+
+#footer{
+
+      border-radius: 20px;
+      padding: auto;
+      height: 45px;
+      background-color:darkslategrey;
+  
+      
+  }
+
+  .card-body img {
+
+    width: 100%;
+    height: 300px;
+  }
